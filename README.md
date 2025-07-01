@@ -13,8 +13,8 @@ A planilha possui um **menu dinâmico** com **3 abas principais**:
    - Área para preencher os **dados cadastrais** do contribuinte (nome, CPF, etc.).
 
 2. **INFORMES**  
-   - Campo para inserir **informações bancárias**, investimentos, saldos, etc.
-
+   - Campo para inserir **informações bancárias**
+     
 3. **NOTAS**  
    - Espaço para adicionar **informes de rendimentos** como **holerites**, **CNPJ** e **freelancers**.
 
